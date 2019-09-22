@@ -1,0 +1,3 @@
+To open db-bear mySql db,
+just click the icon in the path:
+C:\Program Files\DBeaver -----------this will open the db with the port 3306 by default.
